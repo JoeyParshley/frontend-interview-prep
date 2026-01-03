@@ -47,3 +47,36 @@ src/
     04-nested-comments/
     05-feature-dependencies/
 ```
+
+## 🧪 How to Use This Repo
+### Interview Preparation
+- Rebuild Problems from scratch
+- Pactice Explaining
+  - the pattern being used
+  - edge cases
+  - tradeoffs
+- Swap problems in `App.tsx` during mock interviews
+
+### Interview Sharing
+- Share the repo link
+- Walk through one or two problems
+- Focus on reasoning and clarity, not volume
+
+## 🚀 Running Locally
+```bash
+npm install
+npm run dev
+```
+
+## 🧠 Interview Princisples Demonstrated
+- Cleat State Modeling
+- Defenisive edge-case handling
+- Readabale, maintainable code
+- Mapping UI Requirements -> Data structures
+
+## 📌 Notes
+This repo is intenionally **small and focused**
+The goal is not to cover every algorithm, but top demonstrate:
+- strong fundamentals
+- clean React patterns
+- senior-level communication
